@@ -1,0 +1,6 @@
+# virtual env
+venv
+
+# config for username and password
+secret.py
+__pycache__
